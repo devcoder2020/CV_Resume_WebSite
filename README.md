@@ -8,7 +8,7 @@ devcodertrainingsite@yandex.com
 ## Website
 https://www.devcoder.me.uk/
 
-## My instagrem
+## My Instagram
 https://www.instagram.com/junior_web_developer_2020/
 
 ## My Linkedin
